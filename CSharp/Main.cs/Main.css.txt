@@ -1,0 +1,10 @@
+using System;
+
+void Main()
+{
+  int a = 0;
+
+WriteLine("The New Value = {0}",a);
+
+Console.ReadKey();
+}
